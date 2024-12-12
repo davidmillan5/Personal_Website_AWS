@@ -29,7 +29,8 @@ This project showcases how to deploy a personal website on AWS using a serverles
 
 ## Architecture Diagram
 
-![Architecture](./assets/Personal_CV.drawio)
+![Architecture](assets/Personal_CV.drawio.png)
+
 
 ## AWS Services Used
 
